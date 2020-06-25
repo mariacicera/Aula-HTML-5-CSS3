@@ -1,0 +1,55 @@
+body{
+	background-image: url("rinoceronte.jpg");
+	background-: no-repeat;
+	background-size:1900px 1000px;
+}
+#wrapper{
+	width: 980px;
+	height: 500px;
+	background-color: ;
+	margin: auto;
+	opacity:0.65;
+}
+header{
+	height: 80px;
+	background-color:red;
+	margin:0px 3px 0px 3px 
+}
+nav{
+	height: 40px;
+	background-color: #FFC0CB;
+	margin: 3px 3px 0px 3px;
+	padding: 3px;
+}
+nav ul li{
+	display: inline;
+	margin-left: 0px;	
+}
+section{
+	background-color:red;	
+	margin: 3px;
+	width:734;
+	float: left;
+	height:300px;
+}
+
+article{
+	background-color:blue;
+	padding: 8px;
+	margin: 3px;
+	border: 1px solid gray;
+}
+aside{
+	background-color: #ddd;
+	height: 300px; 
+	width: 237px;
+	float: right;
+	margin: 3px 3px 0px 3px;
+	
+}
+footer{
+	background-color: #ff99cc;
+	padding:3px;
+	clear: both;
+	margin: 0px 3px 0px 3px;
+}
